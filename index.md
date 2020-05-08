@@ -1,3 +1,3 @@
 # **Anirban**
 
-# **Senior Software Engineer at DKB Code Factory GmbH**
+# **Senior Software Engineer**
