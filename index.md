@@ -1,8 +1,6 @@
-# **Senior Software Engineer**
-
 I’m a software engineer with over 6 years of experience. I have worked extensively on banking and
 finance domain. I mainly specialise in backend development using JVM languages like Java, Kotlin
-and Spring framework. I'm currently working in a fintech startup in Berlin focusing on payments
+and Spring framework. I'm currently working in a fintech startup in Berlin focused on payments
 and banking. I have been involved in developing API services and managing the complete workflow
 from development to deployment.
 
