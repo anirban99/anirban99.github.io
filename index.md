@@ -1,3 +1,1 @@
-# **Anirban**
-
 # **Senior Software Engineer**
