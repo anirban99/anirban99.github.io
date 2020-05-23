@@ -1,5 +1,5 @@
-# Anirban
+### Relevant Profiles
 
-My github.io website.
+Personal Profile : [Anirban Chatterjee](https://anirban99.github.io/)
 
-Visit it here : https://anirban99.github.io/
+Medium Profile : [anirban99](https://medium.com/@anirban99)
